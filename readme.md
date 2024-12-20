@@ -1,10 +1,12 @@
 # RandomIdeas App
 
+Demo Link: &ensp;**https://ideasharing.onrender.com**
+
 This is a fullstack application for sharing random ideas. It is a project from the [**Modern JS From The Beginning 2.0**](https://www.udemy.com/course/modern-javascript-from-the-beginning/?kw=modern+javascript+from+the+beg&src=sac&couponCode=LETSLEARNNOW) Traversy Media Udemy course.
 
-This app includes a Node.js/Express REST API that uses MongoDB for a database. The client-side is built with Webpack.
+This app includes a `Node.js`/`Express` **`REST API`** that uses `MongoDB` for a database. The client-side is built with `Webpack`.
 
-![app screenshot](/client/src/assets/screen.png)
+![app screenshot](/client/src/assets/screenshot.png)
 
 ## Usage
 
@@ -70,5 +72,5 @@ When updating or deleting, the username must match the username of the idea crea
 
 ### Features to Add
 
-- #### implement authentication:  
+- #### implement authentication:
   Add password field to schema and store it into database - encrypt it
